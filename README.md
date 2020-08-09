@@ -1,4 +1,4 @@
-# Business-Analysis-Nanodegree-projects
+# Business-Analytics-Nanodegree-projects
 I worked on 4 projects that was a requirement to acomplete the Business Analysis Nanodegree Program By Udacity,
 these projects are covered the following topics:
 - descriptive statistics
